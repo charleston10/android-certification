@@ -1,5 +1,10 @@
+# Google Developers Certification
 
-## Android Core
+https://developers.google.com/certification/associate-android-developer
+
+## Guide
+
+### Android Core
 
 <ul>
 <li><a href="https://developer.android.com/guide/topics/ui/notifiers/toasts" class="gc-analytics-event" data-category="Associate-Android-Developer-study_guide-android_core" data-label="goto-article-toasts">Android Developers -&gt; Toasts</a></li>
@@ -16,7 +21,7 @@
 <li><a href="https://codelabs.developers.google.com/codelabs/android-workmanager-kt/index.html#0" class="gc-analytics-event" data-category="Associate-Android-Developer-study_guide-android_core" data-label="goto-codelab-workmanager-kotlin">Codelabs -&gt; WorkManager (Kotlin)</a></li>
 </ul>
 
-## User Interface
+### User Interface
 
 <ul>
 <li><a href="https://developer.android.com/training/constraint-layout/" class="gc-analytics-event" data-category="Associate-Android-Developer-study_guide-user_interface" data-label="goto-article-responsive-ui-constraintlayout">Android Developers -&gt; Build a responsive UI with ConstraintLayout</a></li>
@@ -42,7 +47,7 @@
 <li><a href="https://codelabs.developers.google.com/codelabs/kotlin-android-training-recyclerview-fundamentals/index.html#0" class="gc-analytics-event" data-category="Associate-Android-Developer-study_guide-user_interface" data-label="goto-codelab-recyclerview-kotlin">Codelabs -&gt; RecyclerView fundamentals (Kotlin)</a></li>
 </ul>
 
-## Data management
+### Data management
 
 <ul>
 <li><a href="https://developer.android.com/training/data-storage/shared-preferences" class="gc-analytics-event" data-category="Associate-Android-Developer-study_guide-data_management" data-label="goto-reference-sharedpreferences_editor">Android Developers -&gt; Shared preferences</a></li>
@@ -56,7 +61,7 @@
 <li><a href="https://codelabs.developers.google.com/codelabs/android-room-with-a-view-kotlin/index.html#0" class="gc-analytics-event" data-category="Associate-Android-Developer-study_guide-data_management" data-label="goto-codelab-room_view-kotlin">Codelabs -&gt; Room with a View (Kotlin)</a></li>
 </ul>
 
-## Debugging
+### Debugging
 
 <ul>
 <li><a href="https://developer.android.com/studio/debug/" class="gc-analytics-event" data-category="Associate-Android-Developer-study_guide-debugging" data-label="goto-article-debug">Android Developers -&gt; Debug your app</a></li>
@@ -65,7 +70,7 @@
 <li><a href="https://codelabs.developers.google.com/codelabs/android-training-hello-world/index.html#7" class="gc-analytics-event" data-category="Associate-Android-Developer-study_guide-debugging" data-label="goto-codelab-log_statements">Codelabs -&gt; Add log statements to your app</a></li>
 </ul>
 
-## Testing
+### Testing
 
 <ul>
 <li><a href="https://developer.android.com/training/testing/fundamentals" class="gc-analytics-event" data-category="Associate-Android-Developer-study_guide-testing" data-label="goto-article-testing_fundamentals">Android Developers -&gt; Fundamentals of testing</a></li>
